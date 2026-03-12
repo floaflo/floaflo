@@ -8,6 +8,7 @@ consolidata attraverso una certificazione in **Data Analysis** presso Epicode.
 ### 🗂️ **Progetti Principali**
 
 https://github.com/floaflo/Projects 
+
 Questa sezione è in continuo aggiornamento!
 
 ### 📜 **Competenze Tecniche & Certificazioni Principali**
